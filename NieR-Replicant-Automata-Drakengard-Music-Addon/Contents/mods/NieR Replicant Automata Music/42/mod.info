@@ -1,10 +1,10 @@
-name=[B41/42]NieR Replicant/Automata/Drakengard 3 Lifestyle Addon
-id=NieR Replicant/Automata/Drakengard 3 Lifestyle Addon
-description= <H1> <CENTER></CENTER> </H1> <LINE> <LEFT> <RGB:1,1,1> Addon for the Lifestyle mod that adds OSTs from the Nier/Drakengard games. <LINE> <H2> The addon includes: </H2> <LINE> <RGB:1,1,1> - 22 tracks for Acoustic guitar <LINE> <RGB:1,1,1>- 1 track for Electric guitar <RGB:1,1,1> <LINE> <LEFT> <RGB:0.8,0.8,0.8> For a more detailed description, please visit the mod's workshop page</LEFT> <LINE> <CENTER> <H3> <RGB:0,0.6,1> Author: Alximik </H3> </CENTER>
-poster=cover.png
-icon=icon.png
+name=NieR Replicant/Automata/Drakengard Lifestyle Addon
+id=NieR Replicant/Automata/Drakengard Lifestyle Addon
+description= <H1> <CENTER></CENTER> </H1> <LINE> <LEFT> <RGB:1,1,1> Addon for the Lifestyle mod that adds OSTs from the Nier/Drakengard games. <LINE> <H2> The addon includes: </H2> <LINE> <RGB:1,1,1> - 22 tracks for Acoustic guitar <LINE> <RGB:1,1,1>- 1 track for Electric guitar <RGB:1,1,1> <LINE> <LEFT> <RGB:0.8,0.8,0.8> For a more detailed description, please visit the mod's workshop page</LEFT>
+icon=../common/icon.png
+poster=../common/cover.png
 author=Alximik
 modversion=1.1.5
 multiplayer=true
 url=https://ko-fi.com/alximik
-require=\LifestyleHobbies
+require=LifestyleHobbies
